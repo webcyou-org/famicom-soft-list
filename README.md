@@ -5,6 +5,7 @@
 
 ```
 └── data
+    ├── soft_list.json
     ├── soft_list.csv
     └── soft_list.txt
 ```
