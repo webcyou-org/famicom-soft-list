@@ -8420,6 +8420,6 @@ module.exports = [
     "title": "高橋名人の冒険島IV",
     "publisher": "ハドソン",
     "bit_memory": "3M",
-    "price": ""
+    "price": "5800"
   }
 ]
