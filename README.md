@@ -8,8 +8,29 @@
 ```
 └── data
     ├── soft_list.json
+    ├── soft_list.js
     ├── soft_list.csv
     └── soft_list.txt
+```
+
+### Installation
+
+```
+npm install famicon-soft-list
+```
+
+### Usage
+
+```
+const famiconSoftList from 'famicon-soft-list'
+
+famiconSoftList // => [{ 
+  "id": "1", "release_date": "1983-07-15", "title": "ドンキーコング", "publisher": "任天堂", "bit_memory": "192K", "price": "4500"
+},
+{
+  "id": "2", "release_date": "1983-07-15", "title": "ドンキーコングJR.", "publisher": "任天堂", "bit_memory": "192K", "price": "4500"
+},
+...]
 ```
 
 ### soft_list.csv
