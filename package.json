@@ -1,11 +1,12 @@
 {
   "name": "famicon-soft-list",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/main.js",
   "description": "Famicom（NES）soft list of release dates",
   "files": [
     "README.md",
-    "lib/"
+    "lib/",
+    "data/soft_list.js"
   ],
   "repository": "webcyou-org/famicom-soft-list",
   "author": "daisuke.takayama",
