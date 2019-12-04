@@ -25,10 +25,10 @@ npm install famicon-soft-list
 const famiconSoftList = require("famicon-soft-list")
 
 famiconSoftList // => [{ 
-  "id": "1", "release_date": "1983-07-15", "title": "ドンキーコング", "publisher": "任天堂", "bit_memory": "192K", "price": "4500"
+  "id": 1, "release_date": "1983-07-15", "title": "ドンキーコング", "publisher": "任天堂", "bit_memory": "192K", "price": 4500
 },
 {
-  "id": "2", "release_date": "1983-07-15", "title": "ドンキーコングJR.", "publisher": "任天堂", "bit_memory": "192K", "price": "4500"
+  "id": 2, "release_date": "1983-07-15", "title": "ドンキーコングJR.", "publisher": "任天堂", "bit_memory": "192K", "price": 4500
 },
 ...]
 ```
