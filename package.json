@@ -1,6 +1,6 @@
 {
   "name": "famicon-soft-list",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "main": "lib/main.js",
   "description": "Famicom（NES）soft list of release dates",
   "files": [
