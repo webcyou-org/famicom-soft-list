@@ -13,6 +13,7 @@
     ├── soft_list.json
     ├── soft_list.js
     ├── soft_list.csv
+    ├── soft_list.yaml
     └── soft_list.txt
 ```
 
