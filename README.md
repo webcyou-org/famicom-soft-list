@@ -6,6 +6,11 @@
 
 ![nintendo-family-computer](https://user-images.githubusercontent.com/1584153/69917001-0c7e8900-14a5-11ea-84aa-a0d029201aee.jpg)
 
+
+**レポジトリはこちらに移動しました。**
+
+[https://github.com/game-soft/famicom](https://github.com/game-soft/famicom)
+
 ### file data tree
 
 ```
